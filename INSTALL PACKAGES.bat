@@ -9,5 +9,7 @@ py -3 -m pip install -U BenBotAsync
 
 
 ECHO Done! Now run START BOT.bat
+py fortnite.py
+cmd /k
 PAUSE
 
